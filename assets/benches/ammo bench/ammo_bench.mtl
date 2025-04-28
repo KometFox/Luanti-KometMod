@@ -1,0 +1,52 @@
+# Blender 4.3.2 MTL File: 'ammo_bench.blend'
+# www.blender.org
+
+newmtl Black
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/kruzchev/.minetest/games/mineclone2/textures/mcl_blackstone_top.png
+
+newmtl Gold
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/kruzchev/.minetest/games/mineclone2/textures/mcl_core_apple_golden.png
+
+newmtl Silver
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/kruzchev/.minetest/games/mineclone2/textures/mcl_colorblocks_concrete_silver.png
+
+newmtl Wood
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/kruzchev/.minetest/games/mineclone2/textures/mcl_core_planks_big_oak.png
+
+newmtl WoolGreen
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd /home/kruzchev/.minetest/games/mineclone2/textures/mcl_wool_lime.png

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------
+Credits.txt
+
+Thanks to these people who provided freely available code and content.
+------------------------------------------------------------------------
+
+-Voxelibre teams
+
+-Minetest developers
+
+-Mineclone game teams
+
+-Bow Mod
+-TenPlus1
+
+-Age of Mending
+
+-Sumi
+ -Code help
+
+-Firearm Sound Library pack
+--Ben Jaszczak
+--Brian Nelson
+--Kevin Heras
+--Matthew Nanney

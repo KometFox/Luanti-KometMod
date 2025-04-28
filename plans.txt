@@ -1,0 +1,68 @@
+Version 1.0 Release
+
+Mod name: TODO
+
+Description of Mod: Introduces various new elements, custom crafting tables, infinite source of ores, new elements. New firearms
+
+All that without changing the Worldgen. 
+
+
+1. Describe a Activity or Emotion you want for the player to feel:
+-The player should have fun exploring the mod's content and utilizing it. The player should feel something
+he has more content to play with which are useful in a specific case or usable as a generic utility item/block,
+for example having access to a vast amount of orethyst should give the player more freedom in creating items and
+removing the chore of mining blocks. 
+
+Other examples are adding firearms which are easy to use, the firearms in this mod should have a somewhat realistic
+approach to creating items such as gun powder but still not to the point it takes ages to have enough amount of it 
+to use the weapons more. 
+
+2. How to encourage this Activity and Emotion more.
+-The player shouldn't feel burdened or burned out from using content because it is way too grindy to get it, 
+he should feel he has more tools and weapons at his disposable which makes his gameplay more fun. There should 
+be ideally enough content for the player to toy with but none of the content feeling too redundant, with the 
+exceptions of firearms as there should be a variety of items so that the player has the freedom to choose his own
+loadout. 
+
+
+Additional Notes:
+How to achieve it: 
+-Avoid progression system that makes things too grindy or boring
+-Avoid crafting system that are too hard to understand
+-Avoid blocks system that are too complex too use
+
+Notes on immersive crafting:
+There will be a system which makes the crafting more plausible looking but it is done as a way to make the
+crafting system more fun to play around with, this can be achieved by making sure it is not done in a way
+which adds too much chores. 
+
+
+<Code>
+[] Cleanup code some more
+[] Add more comments
+
+<Firearms>
+[x] Fix Firearms code
+[x] Add support for buckshoot rounds 
+
+<Workbenches>
+[] Add support for categories
+
+
+[Ideas]
+
+TODO: Make it both compitable with MTG and Voxelibre 
+
+
+<Pistols>
+-Add a light 9x19mm Pistol (remove the Enforcer pistol)
+
+<Shotguns>
+-Add some shotgun types, that uses 10 and 12 gauge rounds 
+
+<Crafting>
+-Make crafting more immersive
+-Add support for mods that introduce automation of items 
+-Add support for mods that adds new blocks
+-Add support for item groups 
+
