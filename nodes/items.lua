@@ -44,4 +44,10 @@ make_item_3d("komet_mod:stoneheart_crystal",
 					tiles = {"wool_yellow.png", "mcl_stairs_stone_slab_top.png"},
 					mesh = "neo_crystal.glb"})
 
-
+make_item_3d("komet_mod:basic_filter",
+				{
+					stack_max = 50,
+					icon = "basic_filter.png",
+					description = "Basic Filter",
+					tiles = {"mcl_polished_deepslate.png", "mcl_bamboo_bamboo_bottom_stripped.png"},
+					mesh = "filter.glb"})

@@ -90,7 +90,7 @@ function kometmod_water_boiler.process_item(pos)
     local new_item = ItemStack("komet_mod:table_salt")
     new_item:set_count(5)
 
-    if input_item:get_name() == "mcl_buckets:bucket_empty" then
+    if input_item:get_name() == "komet_mod:basic_filter" then
         inv:add_item("dst", new_item)
     end
 

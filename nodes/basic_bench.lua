@@ -99,6 +99,11 @@ add_recipe({
 			recipe_name = "komet_mod:item_material",
 			ingredient = {[block_cobblestone] = 5}, 
 			give_items = {["komet_mod:item_material"] = 2}})
+			
+add_recipe({
+			recipe_name = "komet_mod:basic_filter",
+			ingredient = {[item_coal_ore] = 2}, 
+			give_items = {["komet_mod:basic_filter"] = 1}})			
 
 add_recipe({
 			recipe_name = item_coal_ore, 
