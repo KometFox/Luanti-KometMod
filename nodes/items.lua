@@ -1,11 +1,3 @@
-minetest.register_craftitem("komet_mod:table_salt", {
-	description = "Table Salt",
-	inventory_image = "table_salt_icon.png",
-	stack_max = 100,
-	groups = { craftitem = 1 },
-	_mcl_toollike_wield = true,
-})
-
 local function make_item_3d(item_name, item_desc)
 	minetest.register_node(item_name, {
 		description = item_desc.description,
@@ -27,6 +19,13 @@ make_item_3d("komet_mod:item_material",
 					tiles = {"default_brick.png", "default_wood.png"},
 					mesh = "build_material.glb"})
 
+make_item_3d("komet_mod:table_salt",
+				{
+					stack_max = 100,
+					icon = "salt_bag_icon.png",
+					description = "Table Salt",
+					tiles = {"salt_bag.png"},
+					mesh = "salt_bag.glb"})
 
 make_item_3d("komet_mod:orethyst",
 				{
